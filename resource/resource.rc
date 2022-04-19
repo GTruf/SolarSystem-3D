@@ -1,0 +1,12 @@
+#define EXE_MERCURY_ICON        "/icons/mercury-logo.ico"
+#define EXE_VENUS_ICON          "/icons/venus-logo.ico"
+#define EXE_EARTH_ICON          "/icons/earth-logo.ico"
+#define EXE_MARS_ICON           "/icons/mars-logo.ico"
+#define EXE_JUPITER_ICON        "/icons/jupiter-logo.ico"
+#define EXE_SATURN_ICON         "/icons/saturn-logo.ico"
+#define EXE_URANUS_ICON         "/icons/uranus-logo.ico"
+#define EXE_NEPTUNE_ICON        "/icons/neptune-logo.ico"
+#define EXE_PLUTO_ICON          "/icons/pluto-logo.ico"
+#define EXE_SOLARSYSTEM_ICON    "/icons/solarsystem-logo.ico"
+
+EXE_ICON       ICON       EXE_SOLARSYSTEM_ICON
